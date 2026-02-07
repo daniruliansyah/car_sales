@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
 import os
-import re
 
 # KONFIGURASI FILE
 INPUT_FILE = 'data/raw/car_sales.csv' 
